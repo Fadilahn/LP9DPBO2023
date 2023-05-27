@@ -1,0 +1,23 @@
+Hunian
+- jenis: string
+- jml_penghuni: int
+- jml_kamar: int
+- foto: string
++ getter()
+
+Rumah
+- nama_pemilik: string
++ getter()
+
+Apartemen
+- nama_pemilik: string
++ getter()
+
+Indekos
+- nama_pemilik: string
+- nama_penghuni: string
++ getter()
+
+Rumah Inheritance Hunian
+Apartemen Inheritance Hunian
+Indekos Inheritance Hunian
