@@ -62,10 +62,13 @@ Berikut merupakan simulasi dari programnya:
 
 ## Dokumentasi
 Landing Page
+
 ![Alt text](screenshot/Screenshot%202023-05-27%20191748.png)
 
 Data Hunian
+
 ![Alt text](screenshot/Screenshot%202023-05-27%20191755.png)
 
 Detail
+
 ![Alt text](screenshot/Screenshot%202023-05-27%20191804.png)
